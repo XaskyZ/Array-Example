@@ -1,0 +1,17 @@
+C:\Users\xasky\Documents\Programming\obj\Debug\net8.0\Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xasky\Documents\Programming\obj\Debug\net8.0\Programming.AssemblyInfoInputs.cache
+C:\Users\xasky\Documents\Programming\obj\Debug\net8.0\Programming.AssemblyInfo.cs
+C:\Users\xasky\Documents\Programming\obj\Debug\net8.0\Programming.csproj.CoreCompileInputs.cache
+C:\Users\xasky\Documents\Programming\bin\Debug\net8.0\Programming.exe
+C:\Users\xasky\Documents\Programming\bin\Debug\net8.0\Programming.deps.json
+C:\Users\xasky\Documents\Programming\bin\Debug\net8.0\Programming.runtimeconfig.json
+C:\Users\xasky\Documents\Programming\bin\Debug\net8.0\Programming.dll
+C:\Users\xasky\Documents\Programming\bin\Debug\net8.0\Programming.pdb
+C:\Users\xasky\Documents\Programming\obj\Debug\net8.0\Programming.dll
+C:\Users\xasky\Documents\Programming\obj\Debug\net8.0\refint\Programming.dll
+C:\Users\xasky\Documents\Programming\obj\Debug\net8.0\Programming.pdb
+C:\Users\xasky\Documents\Programming\obj\Debug\net8.0\Programming.genruntimeconfig.cache
+C:\Users\xasky\Documents\Programming\obj\Debug\net8.0\ref\Programming.dll
+C:\Users\xasky\Documents\Programming\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\xasky\Documents\Programming\obj\Debug\net8.0\Programming.csproj.AssemblyReference.cache
+C:\Users\xasky\Documents\Programming\obj\Debug\net8.0\Programming.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/FAgAzqKpjczWEr1MSP8td4rCPiVSKOGLEFouxMmoZ5kq3nPa7VzQW2waRA2Wayj+V9rW85oTRm/Kges7HchXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xasky\\Documents\\Programming\\Programming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xasky\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
